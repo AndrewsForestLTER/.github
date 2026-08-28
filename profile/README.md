@@ -24,4 +24,6 @@ Repositories maintained by our researchers and collaborators on their own accoun
 
 ---
 
-*Funded in part by the National Science Foundation Long-Term Ecological Research program. To add your Andrews Forest–funded repository to this page, [open an issue](https://github.com/AndrewsForestLTER/.github/issues) or contact the data management team.*
+*Funded in part by the National Science Foundation Long-Term Ecological Research program.*
+
+*Questions, data requests, or want to add your Andrews Forest–funded repository to this page? [Open an issue](https://github.com/AndrewsForestLTER/.github/issues/new) and the data management team will follow up.*
