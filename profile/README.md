@@ -2,7 +2,7 @@
 
 The H.J. Andrews Experimental Forest is a long-term ecological research (LTER) site in the Cascade Mountains of Oregon, run as a partnership between Oregon State University, the USDA Forest Service Pacific Northwest Research Station, and the Willamette National Forest. Our researchers study forest and stream ecosystems, climate, and biodiversity, and how they change over decades.
 
-🌐 [andrewsforest.oregonstate.edu](https://andrewsforest.oregonstate.edu) · 🐦 [@hja_live](https://x.com/hja_live)
+🌐 [andrewsforest.oregonstate.edu](https://andrewsforest.oregonstate.edu)
 
 This page collects software, tools, and data repositories from across our research community — both in this organization and on our collaborators' own accounts.
 
