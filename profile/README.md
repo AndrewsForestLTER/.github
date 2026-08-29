@@ -4,7 +4,7 @@ The H.J. Andrews Experimental Forest is a long-term ecological research (LTER) s
 
 🌐 [andrewsforest.oregonstate.edu](https://andrewsforest.oregonstate.edu)
 
-This page collects software, tools, and data repositories from across our research community — both in this organization and on our collaborators' own accounts.
+This page collects software, tools, and data repositories from across our research community; both in this organization and on our collaborators' own accounts.
 
 ## Our repositories
 
