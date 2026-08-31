@@ -17,8 +17,7 @@ Maintained under this organization (see the [Repositories tab](https://github.co
 
 Repositories maintained by our researchers and collaborators on their own accounts:
 
-### Cole J. Doolittle ([@cojd](https://github.com/cojd)) — OSU postdoc
-- **[HJA_StressGradientElevationMicrobiome](https://github.com/cojd/HJA_StressGradientElevationMicrobiome)** - Code and data for Doolittle et al. 2025 on the Stress Gradient Feedback Hypothesis (R)
+### Cole J. Doolittle ([@cojd](https://github.com/cojd)) - OSU and Marquette Postdoc
 - **[FOREG-Understory-Resurvey-Tool-VMT](https://github.com/cojd/FOREG-Understory-Resurvey-Tool-VMT)** - ODK-X tablet software for understory plant inventory surveys at Andrews Forest (JavaScript)
 - **[FOREG-Resurvey-Tool-FRT](https://github.com/cojd/FOREG-Resurvey-Tool-FRT)** - Mobile app for asynchronous data collection for the Andrews ForestGEO (FOREG) project (JavaScript)
 
