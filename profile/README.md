@@ -11,7 +11,6 @@ This page collects software, tools, and data repositories from across our resear
 Maintained under this organization (see the [Repositories tab](https://github.com/AndrewsForestLTER?tab=repositories) for the full list):
 
 - **[AND_ezCatalog](https://github.com/AndrewsForestLTER/AND_ezCatalog)** - A customizable data catalog for users of the EDI Data Repository (JavaScript)
-- **[canopy](https://github.com/AndrewsForestLTER/canopy)** - Douglas-fir needles + fungi + metabarcoding + LiDAR: insights into canopy community dynamics (R)
 
 ## Community & collaborator projects
 
