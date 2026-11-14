@@ -16,6 +16,7 @@ Maintained under this organization (see the [Repositories tab](https://github.co
 | **[im_dircopy](https://github.com/AndrewsForestLTER/im_dircopy)** | Small PySide6 desktop front end for high-throughput directory copies (Python) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22262332.svg)](https://doi.org/10.5281/zenodo.22262332) |
 | **[nws-weather-widget](https://github.com/AndrewsForestLTER/nws-weather-widget)** | Lightweight, dependency-free forecast widget backed by the National Weather Service API (JavaScript) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22387868.svg)](https://doi.org/10.5281/zenodo.22387868) |
 | **[db2bibtex](https://github.com/AndrewsForestLTER/db2bibtex)** | CLI/GUI tool that exports HJA/LTER publications from SQL Server to BibTeX for Zotero import (Python) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22800301.svg)](https://doi.org/10.5281/zenodo.22800301) |
+| **[andrews-forest-logo](https://github.com/AndrewsForestLTER/andrews-forest-logo)** | Official Andrews Forest logo package in SVG, PNG and favicon formats, with an offline HTML usage guide (by Jason Lancaster) | — |
 
 
 
